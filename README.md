@@ -31,3 +31,8 @@
 ## 开源与协作
 
 我重视可复现的实验、清晰的技术文档和对失败案例的记录。欢迎通过 GitHub Issues 或 Pull Requests 交流 AI 应用工程与开发者工具。
+
+## 真实开源贡献
+
+- [PR #1702](https://github.com/alibaba/open-code-review/pull/1702)：为 ocr session list 增加 --branch 过滤，并补充空结果与过滤顺序处理；当前状态以 GitHub 页面为准。
+- [PR #1697](https://github.com/alibaba/open-code-review/pull/1697)：让 Anthropic prompt caching 可配置，并修复禁用缓存时保留系统提示词和工具块的问题；当前状态以 GitHub 页面为准。

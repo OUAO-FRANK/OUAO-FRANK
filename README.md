@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm zhouh
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=1800&amp;pause=100000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=60&amp;lines=Hi%2C+I%27m+zhouh+%F0%9F%91%8B" alt="Hi, I'm zhouh 👋" width="100%" />
 
 **Exploring AI agents. Building useful things.**
 
